@@ -20,5 +20,5 @@ _luca@cataldo.ca - (647) 607-4248_
 
 #### Build on:
 - Windows 10
-- node v16.13.2
-- 8.1.2
+- node `v16.13.2`
+- npm `8.1.2`
