@@ -1,5 +1,6 @@
 # Scrawlr Vue 3 Technical Project
-Luca Cataldo 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/44a75248-0e75-48b6-8f1d-45cb607e7f73/deploy-status)](https://app.netlify.com/sites/golden-kitsune-4c1fc8/deploys)
+by Luca Cataldo 
 [Live Demo](https://golden-kitsune-4c1fc8.netlify.app/)
 
 &nbsp;
